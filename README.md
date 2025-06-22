@@ -73,4 +73,6 @@ cybersecurity-playground/
 # MockUps For Social Media Marketing  Campaigns 
 <img src="https://github.com/DavidGitonga/UI-UX-Design-Portfolio-/blob/main/Untitled%20(17).png?raw=true" alt="Featured Project 2" width="300"/>
 
+# Corporate Design Solutions For Branding and Logo Design 
+
       
