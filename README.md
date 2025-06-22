@@ -88,7 +88,6 @@ cybersecurity-playground/
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/Untitled%20(22).png?raw=true" alt="Project 9" width="300"/>
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/Screenshot_20250125_213857_Adobe%20Express.jpg?raw=true" alt="Project 10" width="300"/>
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/Screenshot_20250125_213802_Adobe%20Express.jpg?raw=true" alt="Project 11" width="300"/>
-  <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/Screenshot_20250123_091539_Adobe%20Express.jpg?raw=true" alt="Project 12" width="300"/>
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/IMG_20250128_002409_512.webp?raw=true" alt="Project 13" width="300"/>
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/IMG_20250123_221436_931.webp?raw=true" alt="Project 14" width="300"/>
   <img src="https://github.com/DavidGitonga/Practical-Skilss-and-Knowledge-/blob/main/ABDI%20AND%20KAREEM.png?raw=true" alt="Project 15" width="300"/>
