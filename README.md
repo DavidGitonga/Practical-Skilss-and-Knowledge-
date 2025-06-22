@@ -70,28 +70,7 @@ cybersecurity-playground/
 └── notes/
     └── common-vulnerabilities.md
 #!/bin/bash
-# Basic iptables rules for securing a Linux server
+# MockUps For Social Media Marketing  Campaigns 
 
-iptables -A INPUT -p tcp --dport 22 -j ACCEPT
-iptables -A INPUT -p tcp --dport 80 -j ACCEPT
-iptables -A INPUT -j DROP
-
-personal-infra-setup/
-├── README.md
-├── ansible-playbooks/
-│   └── setup-webserver.yml
-├── system-monitoring/
-│   └── zabbix-config-example.conf
-├── scripts/
-│   └── update-logs.sh
-└── docs/
-    └── linux-hardening-checklist.md
-- hosts: webservers
-  become: yes
-  tasks:
-    - name: Install Apache
-      apt:
-        name: apache2
-        state: present
 
       
